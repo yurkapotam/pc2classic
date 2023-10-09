@@ -1,6 +1,6 @@
 {
-  "Name": "TDM",
-  "Description": "Team Death Match. Битва двух команд",
+  "Name": "CLASSIC",
+  "Description": "Classic. Битва по раундам",
   "StartClientVersion": 334,
   "MapFilter": {
     "IsBlank": false,
